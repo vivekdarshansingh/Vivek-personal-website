@@ -24,7 +24,6 @@
 	"InternShips": [{
 			"name": " Summer Research Internship, IIT Goa ",
 			"link": "https://drive.google.com/file/d/19dqjwm8iK1PoJKXT_CY-g2OTqecvI1jd/view",
-			"Content": " Worked on a Project “Tan Delta Measurement for Compensated Attenuator”. Did research under the guidance of Prof. Dr. T.S. Rathore, an IIT Goa and ex-IIT Bombay Professor. "
 		},
 		{
 			"name": "Summer Internship, NIT Silchar",
@@ -38,7 +37,7 @@
 
 	"ProjectsStartLine": "Some of the projects I did can be found here :",
 	"Projects": [{
-			"name": "Predicting Employee Attrition in the Dawn of Recessiont",
+			"name": "Predicting Employee Attrition in the Dawn of Recession",
 			"link": "https://github.com/vivekdarshansingh/Predicting-Employee-Attrition-in-the-Dawn-of-Recession"
 		},
 		{
