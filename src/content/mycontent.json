@@ -16,79 +16,58 @@
 		"Knows the importance of working as a team and to be Punctual and Responsible at the same time."
 	],
 
-	"ExperienceContent": [
+	"WorkContent": [
 		"My work experience includes Summer Internship under Dr. Shankar K., an NIT Silchar Professor in the field of Mobile Application Development(Android), Research Internship under the able mentorship of Dr. T.S. Rathore, an IIT Goa and ex-IIT Bombay Professor in the field of Circuit and Network Analysis and recently completed online course in the field of Data Science under IIT Guwahati."
 	],
-	"ExperienceandProjectsImage": "",
+	"WorkImage": "",
 	"InternshipsStartLine": " Following are the institute from where I gained experience in area of both Research and Development :",
 	"InternShips": [{
 			"name": " Summer Research Internship, IIT Goa ",
 			"link": "https://drive.google.com/file/d/19dqjwm8iK1PoJKXT_CY-g2OTqecvI1jd/view",
-			"Description": [
-				" Worked on a Project Tan Delta Measurement for Compensated Attenuator.",
-				" Did research under the guidance of Prof. Dr. T.S. Rathore, an IIT Goa and ex-IIT Bombay Professor."
-			]
+			"Content": " Worked on a Project “Tan Delta Measurement for Compensated Attenuator”. Did research under the guidance of Prof. Dr. T.S. Rathore, an IIT Goa and ex-IIT Bombay Professor. "
 		},
 		{
 			"name": "Summer Internship, NIT Silchar",
-			"link": "",
-			"Description": [
-				" Worked on a Project AMMAA: A Master Mobile Development for Aduppangara.",
-				" Did research under the guidance of Prof. Dr. Shankar K., an NIT Silchar Professor."
-			]
+			"link": ""
 		},
 		{
 			"name": "Summer Analytics, IIT Guwahat",
-			"link": "http://caciitg.in/sa/verify/5f0af5b277854d0b0f9fafba",
-			"Description": [
-				"  Completed a Primer course on Data Science conducted by Consulting and Analytics Club, IIT Guwahati under Summer Analytics Programme."
-			]
+			"link": "http://caciitg.in/sa/verify/5f0af5b277854d0b0f9fafba"
 		}
 	],
-	"ProjectsContent": [
-		""
-	],
-	"ProjectsImage": "",
-	"ProjectsStartLine": "Some of the side projects I did can be found here :",
+
+	"ProjectsStartLine": "Some of the projects I did can be found here :",
 	"Projects": [{
 			"name": "Predicting Employee Attrition in the Dawn of Recessiont",
-			"link": "https://github.com/vivekdarshansingh/Predicting-Employee-Attrition-in-the-Dawn-of-Recession",
-			"Description": ["Created a Machine Learning model which involve predicting the Employee Attrition in the wake this pandemic which pushing us into a global recession leading to significant layoffs with the relevant data set being provided by the IBM. "]
+			"link": "https://github.com/vivekdarshansingh/Predicting-Employee-Attrition-in-the-Dawn-of-Recession"
 		},
 		{
 			"name": "Chicago Crime detection",
-			"link": "https://github.com/vivekdarshansingh/Chicago-Crime-Detection",
-			"Description": ["In this project a Dataset of “Motor Vehicle Theft” of few years is being analyzed by implementing Data Science and Data Analysis technique. My works as Analyst is to collect a meaningful insight to maintain peace and order in the state. "]
+			"link": "https://github.com/vivekdarshansingh/Chicago-Crime-Detection"
 		},
 		{
 			"name": "Library Management System",
-			"link": "https://github.com/vivekdarshansingh/Library-Management-System",
-			"Description": ["Created a basic Database for keeping the record of transactions happening everyday in library. In this Transactions included issuance and submission of the books and were saved in term of book records and by the details of persons involved."]
+			"link": "https://github.com/vivekdarshansingh/Library-Management-System"
 		},
 		{
 			"name": "Hit The Bar Game",
-			"link": "https://github.com/vivekdarshansingh/Hit-The-Bar-Game",
-			"Description": ["Created the game where user has to aim a moving bar by an arrow and achieving certain points in a speciﬁed time will lead to win or else user will loose. Concepts used basic multithreading from Core Java and basic coordinate geometry. "]
+			"link": "https://github.com/vivekdarshansingh/Hit-The-Bar-Game"
 		},
 		{
 			"name": "Yelp Dataset Analysis",
-			"link": "https://github.com/vivekdarshansingh/Yelp-Dataset-Analysis",
-			"Description": ["This project analyze the public Dataset provided by Yelp using SQL. Yelp is Platform for the users to provide reviews and rate their interactions with a variety of organizations like Business, Restaurants, Heath, Clubs, Hospitals, Local Government Offices, Charitable Organisations, etc. This project is based on assignments from SQL for Data Science by University of California, Davis on Coursera. Project explores Yelp dataset and prepares the data for predictive modeling of the number of stars that users assign in their reviews."]
+			"link": "https://github.com/vivekdarshansingh/Yelp-Dataset-Analysis"
 		},
 		{
 			"name": "Sales Manager Data Interpretation",
-			"link": "https://github.com/vivekdarshansingh/Sales-Manager-Data-Interpretation",
-			"Description": ["This project performs Data Analysis using Excel. Created Pivot table from a range with rows and columns in Excel. Used Excel pivots to get familiarize with its ability to summarize data in flexible ways, enabling quick exploration of Data and producing valuable insights from the accumulated data."]
+			"link": "https://github.com/vivekdarshansingh/Sales-Manager-Data-Interpretation"
 		},
 		{
 			"name": "Tan delta Measurement for Compensated Attenuator",
-			"link": "",
-			"Description": ["Measured the ratio of two voltages of compensated attenuator and employing the tan delta measurement when attenuator becomes compensated. Developed the knowledge to design the compensated attenuator circuit both in Hardware and Software technologies for measuring Tan delta. "]
+			"link": ""
 		},
 		{
 			"name": "AMMAA: A Master Mobile App for Aduppangarai",
-			"link": "",
-			"Description": ["In this project an app which contains a collection of more than 3000 food recipes where we can search about ingredients and recipes is designed. This is very simple app that can be used by any person having basic knowledge of English. This project mainly deals for the people who are away from family and do not know how to cook"]
+			"link": ""
 		}
 	],
 
@@ -98,6 +77,10 @@
 
 	"emailid": "mailto:vivekdarshansingh2@gmail.com",
 	"linkedin": "https://www.linkedin.com/in/vivek-darshan-singh-325282169/",
+	"wordpress": "",
 	"facebook": "https://www.facebook.com/profile.php?id=100008371061322",
-	"github": "https://github.com/vivekdarshansingh"
+	"github": "https://github.com/vivekdarshansingh",
+	"instagram": "http://www.adityaketkar.me",
+	"twitter": "",
+	"medium": "https://medium.com/@vivekdarshansingh2"
 }
