@@ -1,68 +1,103 @@
 {
-	"Title": "Aditya Ketkar | Personal Webpage",
-	"Name": "Aditya Ketkar",
+	"Title": "Vivek Darshan Singh | Personal Webpage",
+	"Name": "Vivek Darshan Singh",
 	"Description": [
-		"Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
-		"I grab every chance I get to travel, learn and create."
+		"Final Year Undergraduate Student from NIT Silchar, Eager to learn more and explore new ideas and things",
+		"Very excited at the prospect of devoting my long term career to such a dynamic, fast-advancing field of Data Science."
 	],
-	"MainImage": "https://i.imgur.com/yQZNGdm.jpg",
+	"MainImage": "https://i.imgur.com/8RincWa.png",
 	"BackgroundURL": "",
 
-	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
+	"AboutImage": "https://i.imgur.com/610yrAT.jpg",
 	"AboutContent": [
-		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
-		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
-		"I am passionate about Space Technology and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk.",
-		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
+		"A final year undergraduate student pursuing B.Tech. in Electronics and Instrumentation Engineering from National Institute of Technology Silchar, India. Hard working and self-motivated person with good interpersonal skills and eager to learn more and explore new ideas and things.",
+		"Active member of Mountaineering and Trekking club and Gyansagar social services club which works under NIT Silchar gymkhana body.",
+		"Aspiring to build career in Data Analysis and Science along with IT and Managment skills.",
+		"Knows the importance of working as a team and to be Punctual and Responsible at the same time."
 	],
 
-	"WorkContent": [
-		"I am currently full time Software Developer Engineer at Microsoft."
+	"ExperienceContent": [
+		"My work experience includes Summer Internship under Dr. Shankar K., an NIT Silchar Professor in the field of Mobile Application Development(Android), Research Internship under the able mentorship of Dr. T.S. Rathore, an IIT Goa and ex-IIT Bombay Professor in the field of Circuit and Network Analysis and recently completed online course in the field of Data Science under IIT Guwahati."
 	],
-	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
-	"InternshipsStartLine": "Previously, I have interned with :",
+	"ExperienceandProjectsImage": "",
+	"InternshipsStartLine": " Following are the institute from where I gained experience in area of both Research and Development :",
 	"InternShips": [{
-			"name": "Amazon India",
-			"link": "#"
+			"name": " Summer Research Internship, IIT Goa ",
+			"link": "https://drive.google.com/file/d/19dqjwm8iK1PoJKXT_CY-g2OTqecvI1jd/view",
+			"Description": [
+				" Worked on a Project Tan Delta Measurement for Compensated Attenuator.",
+				" Did research under the guidance of Prof. Dr. T.S. Rathore, an IIT Goa and ex-IIT Bombay Professor."
+			]
 		},
 		{
-			"name": "North-Eastern Space Application Center (ISRO)",
-			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
+			"name": "Summer Internship, NIT Silchar",
+			"link": "",
+			"Description": [
+				" Worked on a Project AMMAA: A Master Mobile Development for Aduppangara.",
+				" Did research under the guidance of Prof. Dr. Shankar K., an NIT Silchar Professor."
+			]
 		},
 		{
-			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
-			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
+			"name": "Summer Analytics, IIT Guwahat",
+			"link": "http://caciitg.in/sa/verify/5f0af5b277854d0b0f9fafba",
+			"Description": [
+				"  Completed a Primer course on Data Science conducted by Consulting and Analytics Club, IIT Guwahati under Summer Analytics Programme."
+			]
 		}
 	],
+	"ProjectsContent": [
+		""
+	],
+	"ProjectsImage": "",
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
 	"Projects": [{
-			"name": "EisenList",
-			"link": "https://github.com/adityaketkar/eisenlist"
+			"name": "Predicting Employee Attrition in the Dawn of Recessiont",
+			"link": "https://github.com/vivekdarshansingh/Predicting-Employee-Attrition-in-the-Dawn-of-Recession",
+			"Description": ["Created a Machine Learning model which involve predicting the Employee Attrition in the wake this pandemic which pushing us into a global recession leading to significant layoffs with the relevant data set being provided by the IBM. "]
 		},
 		{
-			"name": "DelOr",
-			"link": "https://bitsdelor.wixsite.com/delor"
+			"name": "Chicago Crime detection",
+			"link": "https://github.com/vivekdarshansingh/Chicago-Crime-Detection",
+			"Description": ["In this project a Dataset of “Motor Vehicle Theft” of few years is being analyzed by implementing Data Science and Data Analysis technique. My works as Analyst is to collect a meaningful insight to maintain peace and order in the state. "]
 		},
 		{
-			"name": "Alexa Music Companion",
-			"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
+			"name": "Library Management System",
+			"link": "https://github.com/vivekdarshansingh/Library-Management-System",
+			"Description": ["Created a basic Database for keeping the record of transactions happening everyday in library. In this Transactions included issuance and submission of the books and were saved in term of book records and by the details of persons involved."]
 		},
 		{
-			"name": "Gatsby Personal Webpage",
-			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
+			"name": "Hit The Bar Game",
+			"link": "https://github.com/vivekdarshansingh/Hit-The-Bar-Game",
+			"Description": ["Created the game where user has to aim a moving bar by an arrow and achieving certain points in a speciﬁed time will lead to win or else user will loose. Concepts used basic multithreading from Core Java and basic coordinate geometry. "]
+		},
+		{
+			"name": "Yelp Dataset Analysis",
+			"link": "https://github.com/vivekdarshansingh/Yelp-Dataset-Analysis",
+			"Description": ["This project analyze the public Dataset provided by Yelp using SQL. Yelp is Platform for the users to provide reviews and rate their interactions with a variety of organizations like Business, Restaurants, Heath, Clubs, Hospitals, Local Government Offices, Charitable Organisations, etc. This project is based on assignments from SQL for Data Science by University of California, Davis on Coursera. Project explores Yelp dataset and prepares the data for predictive modeling of the number of stars that users assign in their reviews."]
+		},
+		{
+			"name": "Sales Manager Data Interpretation",
+			"link": "https://github.com/vivekdarshansingh/Sales-Manager-Data-Interpretation",
+			"Description": ["This project performs Data Analysis using Excel. Created Pivot table from a range with rows and columns in Excel. Used Excel pivots to get familiarize with its ability to summarize data in flexible ways, enabling quick exploration of Data and producing valuable insights from the accumulated data."]
+		},
+		{
+			"name": "Tan delta Measurement for Compensated Attenuator",
+			"link": "",
+			"Description": ["Measured the ratio of two voltages of compensated attenuator and employing the tan delta measurement when attenuator becomes compensated. Developed the knowledge to design the compensated attenuator circuit both in Hardware and Software technologies for measuring Tan delta. "]
+		},
+		{
+			"name": "AMMAA: A Master Mobile App for Aduppangarai",
+			"link": "",
+			"Description": ["In this project an app which contains a collection of more than 3000 food recipes where we can search about ingredients and recipes is designed. This is very simple app that can be used by any person having basic knowledge of English. This project mainly deals for the people who are away from family and do not know how to cook"]
 		}
 	],
 
-	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
-	"CV": "https://www.visualcv.com/aditya-ketkar/",
-	"Resume": "https://drive.google.com/file/d/1M1Vw1J7Yc3BFIgzJXX4_U-_nfIXCfK8n/view?usp=sharing",
+	"CVStartLine": "Will be glad to answer question or collaborate. Feel free to reach out :) ",
+	"CV": "",
+	"Resume": "",
 
-	"emailid": "mailto:adityaketkar848@gmail.com",
-	"linkedin": "https://linkedin.com/in/adityaketkar",
-	"wordpress": "https://technoshblog.wordpress.com/",
-	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/ketkar_a",
-	"medium": "https://medium.com/@ketkaraditya"
+	"emailid": "mailto:vivekdarshansingh2@gmail.com",
+	"linkedin": "https://www.linkedin.com/in/vivek-darshan-singh-325282169/",
+	"facebook": "https://www.facebook.com/profile.php?id=100008371061322",
+	"github": "https://github.com/vivekdarshansingh"
 }
