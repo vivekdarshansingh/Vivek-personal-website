@@ -16,26 +16,52 @@
 		"Knows the importance of working as a team and to be Punctual and Responsible at the same time."
 	],
 
-	"WorkContent": [
-		"My work experience includes Summer Internship under Dr. Shankar K., an NIT Silchar Professor in the field of Mobile Application Development(Android), Research Internship under the able mentorship of Dr. T.S. Rathore, an IIT Goa and ex-IIT Bombay Professor in the field of Circuit and Network Analysis and recently completed online course in the field of Data Science under IIT Guwahati."
+	"WorkContent": ["WORK EXPERIENCE",
+		"My work experience includes Summer Internship under Dr. Shankar K., an NIT Silchar Professor in the field of Mobile Application Development(Android), Research Internship under the able mentorship of Dr. T.S. Rathore, an IIT Goa and ex-IIT Bombay Professor in the field of Circuit and Network Analysis and recently completed online course in the field of Data Science under IIT Guwahati.",
+
+		"PROJECTS",
+		"1) Predicting Employee Attrition in the Dawn of Recession",
+		"Created a Machine Learning model which involve predicting the Employee Attrition in the wake of this pandemic which pushing us into a global recession leading to significant layoffs with the relevant dataset being provided by the IBM.",
+
+		"2) Chicago Crime Detection",
+		"In this project a Dataset of Motor Vehicle Theft of few years is being analyzed by implementing Data Science Technique. My works as Analyst is to collect a meaningful insight to maintain peace and order in the state.",
+
+		"3) Library Management System",
+		"Created a basic Database for keeping the record of transcation happening everyday in library.",
+
+		"4) Hit The Bar Game",
+		"Created a Game where user has to aim a moving Bar by an arrow and achieving certain points in a specified time will lead to win or else user will loose.",
+
+		"5) Yelp Dataset Analysis",
+		"This project analyze the public Dataset provided by Yelp using SQL. Yelp is Platform for the users to provide reviews and rate their interactions with a variety of organizations like Business, Restaurants, Heath, Clubs, Hospitals, Local Government Offices, Charitable Organisations, etc.",
+
+		"6) Sales Manager Data Interpretation",
+		"This project performs Data Analysis using Excel. Created a Pivot table from a range with rows and columns in Excel. Used Excel pivots to get familiarize with its ability to summarize data in flexible ways, enabling quick exploration of Data and producing valuable insights from the accumulated data.",
+
+		"7) Tan delta Measurement for Compensated Attenuator",
+		"Compensated attenuator are employed for the measurement of tan delta. When the circuit is compensated , the manual calculation is involved in determining the tan delta . The ratio of two voltages are measured and ratiometric measurement techniques is used to display this ratio.",
+
+		"8) AMMAA: A Master Mobile App for Aduppangarai",
+		"In this project we will be making an app which contain a collection of more than 3000 food recipes where we can search about ingredients and recipes. This is a very simple app that can be used by a person having basic knowledge of English. This project mainly deals for the people who are away from family and do not know how to cook."
+
 	],
 	"WorkImage": "",
-	"InternshipsStartLine": " Following are the institute from where I gained experience in area of both Research and Development :",
+	"InternshipsStartLine": " Links of certificates isssued by respective institute from where I gained experience in area of both Research and Development :",
 	"InternShips": [{
 			"name": " Summer Research Internship, IIT Goa ",
-			"link": "https://drive.google.com/file/d/19dqjwm8iK1PoJKXT_CY-g2OTqecvI1jd/view",
+			"link": "https://drive.google.com/file/d/19dqjwm8iK1PoJKXT_CY-g2OTqecvI1jd/view"
 		},
 		{
 			"name": "Summer Internship, NIT Silchar",
 			"link": ""
 		},
 		{
-			"name": "Summer Analytics, IIT Guwahat",
+			"name": "Summer Analytics, IIT Guwahati",
 			"link": "http://caciitg.in/sa/verify/5f0af5b277854d0b0f9fafba"
 		}
 	],
 
-	"ProjectsStartLine": "Some of the projects I did can be found here :",
+	"ProjectsStartLine": "Links of some of the projects I did can be found here :",
 	"Projects": [{
 			"name": "Predicting Employee Attrition in the Dawn of Recession",
 			"link": "https://github.com/vivekdarshansingh/Predicting-Employee-Attrition-in-the-Dawn-of-Recession"
