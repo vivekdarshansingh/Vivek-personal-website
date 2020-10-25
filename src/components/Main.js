@@ -139,20 +139,10 @@ class Main extends React.Component {
           <ul className="icons">
             <li>
               <a
-                href={JSONData.twitter}
-                className="icon fa-twitter"
+                href={JSONData.linkedin}
+                className="icon fa-linkedin"
               >
-                <span className="label">Twitter</span>
-              </a>
-            </li>
-            <li>
-              <a href={JSONData.facebook} className="icon fa-facebook">
-                <span className="label">Facebook</span>
-              </a>
-            </li>
-            <li>
-              <a href={JSONData.medium} className="icon fa-medium">
-                <span className="label">Medium</span>
+                <span className="label">Linkedin</span>
               </a>
             </li>
             <li>
@@ -164,14 +154,11 @@ class Main extends React.Component {
               </a>
             </li>
             <li>
-              <a
-                href={JSONData.linkedin}
-                className="icon fa-linkedin"
-              >
-                <span className="label">Linkedin</span>
+              <a href={JSONData.facebook} className="icon fa-facebook">
+                <span className="label">Facebook</span>
               </a>
             </li>
-           <li>
+            <li>
               <a
                 href={JSONData.instagram}
                 className="icon fa-instagram"
