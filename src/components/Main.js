@@ -171,7 +171,14 @@ class Main extends React.Component {
                 <span className="label">Linkedin</span>
               </a>
             </li>
-           
+           <li>
+              <a
+                href={JSONData.instagram}
+                className="icon fa-instagram"
+              >
+                <span className="label">Instagram</span>
+              </a>
+            </li>
           </ul>
           {/* not visible in gatsby build */}
           {close}
