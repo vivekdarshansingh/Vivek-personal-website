@@ -138,6 +138,11 @@ class Main extends React.Component {
           </form>
           <ul className="icons">
             <li>
+              <a href={JSONData.facebook} className="icon fa-facebook">
+                <span className="label">Facebook</span>
+              </a>
+            </li>
+            <li>
               <a
                 href={JSONData.linkedin}
                 className="icon fa-linkedin"
@@ -153,11 +158,7 @@ class Main extends React.Component {
                 <span className="label">GitHub</span>
               </a>
             </li>
-            <li>
-              <a href={JSONData.facebook} className="icon fa-facebook">
-                <span className="label">Facebook</span>
-              </a>
-            </li>
+           
             <li>
               <a
                 href={JSONData.instagram}
