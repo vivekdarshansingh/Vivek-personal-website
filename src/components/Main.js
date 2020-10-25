@@ -171,14 +171,7 @@ class Main extends React.Component {
                 <span className="label">Linkedin</span>
               </a>
             </li>
-            <li>
-              <a
-                href={JSONData.wordpress}
-                className="icon fa-wordpress"
-              >
-                <span className="label">Blog(deprecated)</span>
-              </a>
-            </li>
+           
           </ul>
           {/* not visible in gatsby build */}
           {close}
