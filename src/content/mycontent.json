@@ -2,7 +2,7 @@
 	"Title": "Vivek Darshan Singh | Personal Webpage",
 	"Name": "Vivek Darshan Singh",
 	"Description": [
-		"Final Year Undergraduate Student from NIT Silchar. Passionate about Data Science, Competitive Coding and Cosmology.",
+		"GET @ LTI - Larsen & Toubro Infotech. Recent graduate from NIT Silchar. Passionate about Data Science, Coding and Cosmology.",
 		"I grab every chance I get to travel, learn and explore."
 	],
 	"MainImage": "https://i.imgur.com/8RincWa.png",
@@ -10,26 +10,26 @@
 
 	"AboutImage": "https://i.imgur.com/610yrAT.jpg",
 	"AboutContent": [
-		"I'm E&I major by day, sportsman by evening, a functional wantrepreneur by midnight and a hustler always.",
-		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam.",
-		"I am passionate about Cosmology and Astrophysics (though, never studied them formally). A die-hard fan of Neil deGrasse Tyson.",
+		"I'm techie by day, sportsman by evening, a functional wantrepreneur by midnight and a hustler always.",
+		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying.",
+		"I am passionate about Cosmology and Astrophysics (though, never studied them formally). A big fan of Neil deGrasse Tyson.",
 		"I know the importance of working as a team and hence would love to work and travel together whenever I can."
 	],
 
-	"WorkContent": ["I am currently pursuing B.Tech in Electronics and Instrumentation Engineering from National Institute of Technology Silchar."],
+	"WorkContent": ["I am currently a Graduate Engineer Trainee and upcoming Software Engineer at LTI - Larsen & Toubro Infotech."],
 	"WorkImage": "https://i.imgur.com/610yrAT.jpg",
-        "InternshipsStartLine": " In between, I have interned and gained experience with: ",
+        "InternshipsStartLine": " Previously, I have interned and gained experience with: ",
 	"InternShips": [{
 			"name": " Summer Research Internship, IIT Goa ",
-			"link": "https://drive.google.com/file/d/19dqjwm8iK1PoJKXT_CY-g2OTqecvI1jd/view"
+			"https://drive.google.com/file/d/19dqjwm8iK1PoJKXT_CY-g2OTqecvI1jd/view?usp=sharing"
 		},
 		{
 			"name": "Summer Internship, NIT Silchar",
-			"link": ""
+			"link": "https://drive.google.com/file/d/1EO5X_4CmRmAoexjzS-cEVLfaVswbxm02/view?usp=sharing"
 		},
 		{
 			"name": "Summer Analytics, IIT Guwahati",
-			"link": "http://caciitg.in/sa/verify/5f0af5b277854d0b0f9fafba"
+			"link": "https://drive.google.com/file/d/1EN1HBjLexWiU0rtqFw_DvuFYhevZLnkX/view?usp=sharing"
 		}
 	],
 
@@ -49,8 +49,8 @@
 	],
 
 	"CVStartLine": "Will be glad to answer question or collaborate. Feel free to reach out :) ",
-	"CV": "https://drive.google.com/file/d/1bSQ0q8xDwrty5lO79rOVM-xMMZkoSm5v/view?usp=drivesdk",
-	"Resume": "https://drive.google.com/file/d/1KEbSgxAoAiLjcJ63hZiJnm4VbH0XXmyt/view?usp=drivesdk",
+	"CV": "https://drive.google.com/file/d/1AXV7eqrO1cu5en1aU-LAG8E8nKxIJ_V8/view?usp=sharing",
+	"Resume": "https://drive.google.com/file/d/16Sgvl29xztCP_wUg48gk9GBodg085C6l/view?usp=sharing",
 
 	"emailid": "https://www.vivekdarshansingh2@gmail.com",
 	"linkedin": "https://in.linkedin.com/in/vivek-darshan-singh-325282169",
